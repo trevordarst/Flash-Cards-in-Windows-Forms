@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flash Card Program/1.0.0": {
+        "runtime": {
+          "Flash Card Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flash Card Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

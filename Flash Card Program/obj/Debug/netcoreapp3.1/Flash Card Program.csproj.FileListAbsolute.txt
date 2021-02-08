@@ -1,0 +1,16 @@
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.exe
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.deps.json
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.runtimeconfig.json
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.runtimeconfig.dev.json
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.dll
+C:\Users\trevo\source\repos\Flash Card Program\bin\Debug\netcoreapp3.1\Flash Card Program.pdb
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.csprojAssemblyReference.cache
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.csproj.GenerateResource.cache
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.AssemblyInfoInputs.cache
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.AssemblyInfo.cs
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.dll
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.pdb
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash Card Program.genruntimeconfig.cache
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash_Card_Program.MainMenu.resources
+C:\Users\trevo\source\repos\Flash Card Program\obj\Debug\netcoreapp3.1\Flash_Card_Program.SetCreator.resources
